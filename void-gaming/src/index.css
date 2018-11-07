@@ -47,3 +47,11 @@ table {
 	border-spacing: 0;
 }
 /* END OF CSS RESET */
+
+/* Global Styles */
+*{
+  box-sizing: border-box;
+}
+body{
+  font-size: 62.5%;
+}
